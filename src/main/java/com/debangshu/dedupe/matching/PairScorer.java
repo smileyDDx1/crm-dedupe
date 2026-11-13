@@ -1,65 +1,70 @@
 package com.debangshu.dedupe.matching;
 
 /**
- * Gives a pair of contacts a score from 0 to 1: how likely is it that they are the same person?
+ * Gives a pair of contacts a score from 0 to 1: how sure are we that they are the same person?
  *
- * It's a weighted average of field similarities, using only the fields that BOTH rows have filled in.
- * An empty phone says nothing about whether two rows match, so it shouldn't pull the score down.
+ * The score adds up points for evidence, a simplified version of the Fellegi-Sunter model used for
+ * record linkage. A field that is empty in either row gives no points either way: a missing phone says
+ * nothing about whether two rows match.
  *
- *   name     0.45  Jaro-Winkler on "first last" (also tried as "last first", for swapped columns)
- *   company  0.25  Jaro-Winkler on the normalized company name
- *   email    0.20  1.0 if equal, otherwise half the similarity of the part before the @
- *   phone    0.15  1.0 if equal, otherwise 0
- *   city     0.05  1.0 if equal, otherwise 0
+ *   name      up to +0.60  Jaro-Winkler of "first last" (also tried as "last first")
+ *   email     +0.35 same address,  -0.10 both filled in but different
+ *   phone     +0.35 same number,   -0.10 both filled in but different
+ *   company   +0.15 same company,  -0.10 clearly different company
+ *   city      +0.05 same city
  *
- * On top of that, an identical email or phone number is very strong evidence: if the names are close
- * too, the score is raised to at least 0.97.
+ * Why not a simple weighted average of similarities? That was my first version, and the evaluate
+ * command showed 17% precision: two different people called "Rahul Sharma" got a high score from the
+ * name alone. Names are common, so a name can never be enough on its own (at most 0.60, below every
+ * threshold). Email and phone are unique to a person, so they are the strong evidence.
+ *
+ * With the default threshold 0.85, a merge needs a close name plus the same email or phone.
+ * Name + company + city reaches 0.80: that goes to review.csv, not merged.
  */
 public final class PairScorer {
 
-    static final double NAME_WEIGHT = 0.45;
-    static final double COMPANY_WEIGHT = 0.25;
-    static final double EMAIL_WEIGHT = 0.20;
-    static final double PHONE_WEIGHT = 0.15;
-    static final double CITY_WEIGHT = 0.05;
+    static final double NAME_POINTS = 0.60;
+    static final double SAME_IDENTIFIER = 0.35;
+    static final double DIFFERENT_IDENTIFIER = -0.10;
+    static final double SAME_COMPANY = 0.15;
+    static final double DIFFERENT_COMPANY = -0.10;
+    static final double SAME_CITY = 0.05;
+
+    /** Email/phone only count when the names are close too, so a shared inbox (info@...) can't merge different people. */
+    static final double MIN_NAME_FOR_IDENTIFIERS = 0.75;
 
     public double score(NormalizedContact a, NormalizedContact b) {
         double nameSimilarity = Math.max(JaroWinkler.similarity(a.fullName(), b.fullName()),
                 JaroWinkler.similarity(a.reversedName(), b.fullName()));
-        double total = NAME_WEIGHT * nameSimilarity;
-        double weights = NAME_WEIGHT;
+        double score = NAME_POINTS * nameSimilarity;
+
+        if (nameSimilarity >= MIN_NAME_FOR_IDENTIFIERS) {
+            score += identifierPoints(a.email(), b.email());
+            score += identifierPoints(a.phone(), b.phone());
+        }
 
         if (!a.company().isEmpty() && !b.company().isEmpty()) {
-            total += COMPANY_WEIGHT * JaroWinkler.similarity(a.company(), b.company());
-            weights += COMPANY_WEIGHT;
+            double companySimilarity = JaroWinkler.similarity(a.company(), b.company());
+            if (companySimilarity >= 0.9) {
+                score += SAME_COMPANY;
+            } else if (companySimilarity < 0.75) {
+                score += DIFFERENT_COMPANY;
+            }
         }
 
-        boolean sameEmail = false;
-        if (!a.email().isEmpty() && !b.email().isEmpty()) {
-            sameEmail = a.email().equals(b.email());
-            // different addresses can still be the same person (work vs personal), so a similar user name
-            // ("rahul.sharma" vs "rahulsharma87") still counts a little
-            double emailSimilarity = sameEmail ? 1.0 : 0.5 * JaroWinkler.similarity(a.emailUser(), b.emailUser());
-            total += EMAIL_WEIGHT * emailSimilarity;
-            weights += EMAIL_WEIGHT;
+        if (!a.city().isEmpty() && a.city().equals(b.city())) {
+            score += SAME_CITY;
         }
+        // rounded because of floating point: 0.60 - 0.10 + 0.35 must come out as exactly 0.85 (a match at
+        // the default threshold), not 0.8499999999999999
+        double rounded = Math.round(score * 1_000_000) / 1_000_000.0;
+        return Math.max(0.0, Math.min(1.0, rounded));
+    }
 
-        boolean samePhone = false;
-        if (!a.phone().isEmpty() && !b.phone().isEmpty()) {
-            samePhone = a.phone().equals(b.phone());
-            total += PHONE_WEIGHT * (samePhone ? 1.0 : 0.0);
-            weights += PHONE_WEIGHT;
+    private static double identifierPoints(String a, String b) {
+        if (a.isEmpty() || b.isEmpty()) {
+            return 0.0;
         }
-
-        if (!a.city().isEmpty() && !b.city().isEmpty()) {
-            total += CITY_WEIGHT * (a.city().equals(b.city()) ? 1.0 : 0.0);
-            weights += CITY_WEIGHT;
-        }
-
-        double score = total / weights;
-        if ((sameEmail || samePhone) && nameSimilarity >= 0.8) {
-            score = Math.max(score, 0.97);
-        }
-        return score;
+        return a.equals(b) ? SAME_IDENTIFIER : DIFFERENT_IDENTIFIER;
     }
 }
