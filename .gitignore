@@ -1,0 +1,18 @@
+target/
+dedupe-output/
+*.log
+
+# generated test data (the small samples/ file is committed on purpose)
+/sample*.csv
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
