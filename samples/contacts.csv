@@ -1,0 +1,278 @@
+id,first_name,last_name,email,phone,company,city,updated_at,true_entity_id
+C000001,Rahul,Sharma,rahul.sharma44+newsletter@gmail.com,+91-7250754363,Saffron Hotels Pvt Ltd,Kolkata,2026-06-01,P000171
+C000002,Imran,Sharma,imran.sharma@deccanmotors.in,06960495575,Deccan Motors LLC,London,2025-10-10,P000150
+C000003,Michael,Shamra,michael.sharma@riverstonecapital.com,,Riverstone Capital Pvt Ltd,,2025-11-18,P000064
+C000004,Daniel,Nair,daniel_nair@yahoo.co.in,9004811339,Granite Builders Limited,Pune,2025-07-17,P000055
+C000005,Yuki,Kumar,yuki.kumar@coralinsurance.in,06858083696,Coral Insurance Inc,Hyderabad,2026-04-04,P000185
+C000006,Anjali,Chatterjee,anjali.chatterjee87@rediffmail.com,08184582877,Deccan Motors Limited,Mumbai,2026-04-29,P000172
+C000007,Karan,Reddy,karan.reddy@orbitretail.com,7758581440,Orbit Retail Private Limited,Bengaluru,2025-02-06,P000159
+C000008,Sneha,Johnson,sneha.johnson@mapleconsulting.com,792-197-7875,Maple Consulting Pvt. Ltd.,Hyderabad,2026-06-20,P000101
+C000009,Nikhil,Ali,nikhil_ali@rediffmail.com,856-123-7643,Riverstone Capital LLC,London,2025-07-03,P000072
+C000010,Vivek,Müller,vivek.muller@quillpublishing.in,+91-7314288215,Quill Publishing Inc,Austin,2025-03-17,P000147
+C000011,Karan,Khan,karan.khan66@outlook.com,06206218551,Quartz Labs Private Limited,Kolkata,2025-03-31,P000048
+C000012,Ayesha,Gupta,ayesha.gupta@lotusfintech.com,+91-6648393734,Lotus Fintech LLC,Bengaluru,2025-04-17,P000175
+C000013,Arjun,Kulkarni,arjun.kulkarni@vertexrobotics.com,,Vertex Robotics Inc.,,2026-06-17,P000068
+C000014,Vikram,Khan,vikram.khan@vertexrobotics.com,+91-7603104395,Vertex Robotics Private Limited,Noida,2025-11-13,P000127
+C000015,Anjali,Müller,anjali.muller@riverstonecapital.com,09575637148,Riverstone Capital Limited,Noida,2025-11-04,P000197
+C000016,VIVEK,GUPTA,vivek.gupta@lumendiagnostics.in,+91-6183703825,Lumen Diagnostics Pvt Ltd,Noida,2025-02-17,P000025
+C000017,Gaurav,D'Souza,gdsouza@outlook.com,9759917649,Jade Jewellers Pvt Ltd,Gurugram,2026-10-01,P000026
+C000018,Neha,Singh,neha.singh83@gmail.com,7894593207,Velvet Cosmetics Limited,Singapore,2025-03-10,P000075
+C000019,Isha,Aki,isha.ali@teallogistics.com,+91-7250894028,Teal Logistics LLC,Kolkata,2025-02-10,P000129
+C000020,Manish,D'Souza,manish.dsouza@kaveritextiles.com,09442892716,Kaveri Textiles Limited,Chennai,2025-05-29,P000039
+C000021,Shreya,Verma,shreya.verma@zenithlogistics.com,+91-9549288545,Zenith Logistics Inc.,Jaipur,2026-09-26,P000077
+C000022,Sarah,D'Souza,sarah.dsouza75@gmail.com,+91-9147368419,Willow Healthcare Inc.,Delhi,2026-11-07,P000181
+C000023,Ankit,Singh,ankit.singh@evergreenagro.com,867-222-1810,Evergreen Agro Inc.,Austin,2026-06-27,P000023
+C000024,James,Pillai,james_pillai@rediffmail.com,+91 63689 07192,Nova Biotech Limited,Mumbai,2026-05-03,P000133
+C000025,Zoya,Ali,ZOYA_ALI@YAHOO.CO.IN,,MONSOON TRAVELS PVT LTD,Ahmedabad,2024-12-28,P000111
+C000026,Tanvi,Mukherjee,tanvi.mukherjee@saffronhotels.in,+91-9188246945,Saffron Hotels Limited,Bengaluru,2025-04-06,P000092
+C000027,Zoya,Ali,zoya.ali@monsoontravels.com,847-116-9550,Monsoon Travels Ltd,Ahmedabad,2026-04-17,P000111
+C000028,Zoya,Tanaka,zoya_tanaka@gmail.com,792-811-2603,Quill Publishing Inc,Noida,2025-11-05,P000198
+C000029,John,Fernandes,johnfernandes@gmail.com,+91 62712 64640,Evergreen Agro Pvt. Ltd.,Hyderabad,2025-05-17,P000179
+C000030,Pooja,Menon,pooja.menon29@gmail.com,838-551-1446,Peacock Media,Bengaluru,2025-09-08,P000178
+C000031,Pooja,Nair,pooja.nair44@gmail.com,+91 78432 81318,Zenith Logistics Ltd,Gurugram,2026-06-17,P000084
+C000032,Carkos,Iyer,carlos_iyer@outlook.com,,MONSOON TRAVELS INC.,Singapore,2026-04-20,P000176
+C000033,Aarav,Mehta,,8924261497,kaveri textiles llc,Gurugram,2025-09-03,P000143
+C000034,Vivek,Mehta,vivek.mehta28@yahoo.co.in,08761988192,Mango Payments Pvt Ltd,London,2026-02-14,P000074
+C000035,John,Mehta,john.mehta@teallogistics.com,+91 97261 81889,Teal Logistics Pvt. Ltd.,London,2025-05-10,P000009
+C000036,Shreya,Bose,shreya.bose@riverstonecapital.com,+91-7516272951,Riverstone Capital Inc.,Pune,2025-08-06,P000040
+C000037,Sarah,Mukherjee,sarah.mukherjee@ivoryinteriors.com,06071236748,Ivory Interiors Inc.,Pune,2026-10-17,P000123
+C000038,Snega,Agarwal,sneha.agarwal@mangopayments.com,+91 96758 02402,Mango Payments Private Limited,Hyderabad,2025-09-19,P000109
+C000039,Daniel,Mukherjee,daniel_mukher.jee@gmail.com,945-388-1349,Velvet Cosmetics Ltd,Mumbai,2026-08-03,P000194
+C000040,Nikhil,Chatterjee,nikhil.chatterjee@vertexrobotics.in,6059001035,Vertex Robotics Ltd,Pune,2026-05-15,P000014
+C000041,Ananya,Reddy,ananya.reddy@monsoontravels.in,+91-8263206801,Monsoon Travels Inc.,Noida,2025-06-05,P000102
+C000042,Ananya,Johnson,ananya.johnson@quillpublishing.com,+91-7021281169,Quill Publishing Inc,Delhi,2025-01-02,P000187
+C000043,Gaurav,Garcia,gaurav.garcia@zenithlogistics.com,9794305464,Zenith Logistics Pvt. Ltd.,Kochi,2025-04-01,P000169
+C000044,Zoya,Chatterjee,zoya.chatterjee39@gmail.com,+91-7499484592,Zenith Logistics Inc,Austin,2026-02-27,P000104
+C000045,Divya,Mehta,divya.mehta@monsoontravels.com,+91-6836013969,Monsoon Travels Inc,Mumbai,2025-02-05,P000091
+C000046,aLura,Fernandes,,976-070-2793,Monsoon Travels Inc,Hyderabad,2024-12-14,P000007
+C000047,Zoya,Joshi,zoya.joshi@nimbusanalytics.in,9079622067,Nimbus Analytics Pvt. Ltd.,Gurugram,2026-10-09,P000051
+C000048,Suresh,Das,suresh.das@bluepeaksoftware.com,+91 86401 58125,Bluepeak Software Inc.,Gurugram,2026-01-06,P000034
+C000049,Sarah,Ali,sarah_ali@gmail.com,+91 77944 84603,Peacock Media Private Limited,Gurugram,2025-06-16,P000018
+C000050,Suresh,Lee,suresh.lee53@outlook.com,06299053199,Brightpath Education Ltd,Bengaluru,2026-05-15,P000035
+C000051,Rajesh,Rao,rajesh.rao@gangapharma.in,08380246334,Ganga Pharma Pvt. Ltd.,Pune,2025-10-31,P000167
+C000052,Rahul,Mukherjee,rahul.mukherjee@garudaaviation.com,08892997942,Garuda Aviation Pvt. Ltd.,Pune,2025-07-06,P000020
+C000053,Anjali,Lee,anjali.lee75@gmail.com,+91-6341037480,Neem Organics Ltd,London,2026-07-20,P000180
+C000054,Vikram,Banerjee,vikrambanerjee@outlook.com,865-118-4483,Bluepeak Software Pvt Ltd,Jaipur,2024-12-21,P000066
+C000055,Ankit,Chatterjee,ankit.chatterjee@ivoryinteriors.com,+91-8761703996,Ivory Interiors,Singapore,2026-05-18,P000139
+C000056,Akash,Pillai,akash.pillai53@gmail.com,932-831-0708,Teal Logistics Pvt. Ltd.,Austin,2026-02-22,P000134
+C000057,Daniel,Bose,daniel.bose@harborshipping.com,722-681-9330,Harbor Shipping,Noida,2025-11-27,P000033
+C000058,Emily,Reddy,emily.reddy@jadejewellers.com,9367572755,Jade Jewellers Ltd,Austin,2026-09-07,P000081
+C000059,Shreya,Banerjee,shreya.banerjee@summitsports.com,634-721-4147,Summit Sports Ltd,Singapore,2026-03-01,P000060
+C000060,Ankit,Brown,ankit.brown@induscloudsystems.com,06997530112,Indus Cloud Systems Private Limited,Noida,2026-04-05,P000031
+C000061,Sara,Das,sara_das@outlook.com,835-244-2541,Riverstone Capital Pvt. Ltd.,Austin,2026-03-29,P000088
+C000062,Pooja,Smith,pooja.smith@orbitretail.com,676-114-5570,Orbit Retail,Kochi,2026-05-08,P000030
+C000063,Ritu,uKlkarni,ritu.kulkarni@harborshipping.com,7415762698,Harbor Shipping Ltd,Ahmedabad,2025-06-07,P000090
+C000064,Vikram,Kumar,vikram.kumar@mapleconsulting.com,06188527290,Maple Consulting Inc.,Ahmedabad,2026-09-17,P000140
+C000065,ANKIT,FERNANDES,ankit.fernandes@summitsports.com,07003626058,Summit Sports Inc.,Mumbai,2026-07-16,P000016
+C000066,aLura,Sharma,laurasharma@gmail.com,660-594-7087,Bluepeak Software Inc,Chennai,2025-08-26,P000067
+C000067,Gaurav,Khan,gaurav.khan@velvetcosmetics.com,+91 72504 76527,Velvet Cosmetics Private Limited,Kochi,2025-06-15,P000114
+C000068,Meera,Shah,meera.shah@harborshipping.com,+91-6655613340,Harbor Shipping,Chennai,2025-04-22,P000184
+C000069,Aditi,Reddy,,,Garuda Aviation,,2025-05-25,P000121
+C000070,Ankit,Brown,abrown@gmail.com,+91 69975 30112,Indus Cloud Systems Private Limited,,2026-06-10,P000031
+C000071,Yash,Patel,ypatel@gmail.com,+91-8071420080,Silverline Telecom LLC,Delhi,2026-01-24,P000118
+C000072,Ankit,Desai,ankit.desai@teallogistics.com,+91-7629991747,Teal Logistics,Bengaluru,2026-10-10,P000138
+C000073,Emily,Fernandes,emily_fernandes@outlook.com,641-512-0904,Aravalli Mining Pvt Ltd,Delhi,2025-11-23,P000097
+C000074,Wei,Mukherjee,wei.mukherjee@induscloudsystems.com,9065149323,Indus Cloud Systems Pvt. Ltd.,Noida,2026-02-20,P000087
+C000075,Neha,Sinhg,nehasingh@gmail.com,763-609-9045,SAHYADRI FOODS INC.,,2026-10-17,P000063
+C000076,Michael,Mehta,michael.mehta@zephyrairlines.in,726-145-5000,Zephyr Airlines Private Limited,Gurugram,2024-11-19,P000125
+C000077,Shreya,Gupta,shreya_gupta@outlook.com,918-882-4994,Sahyadri Foods LLC,Gurugram,2025-05-03,P000170
+C000078,Isha,Singh,isingh@gmail.com,821-904-9632,Himalaya Water Inc.,Mumbai,2025-03-07,P000153
+C000079,Anjali,Chatterjee,,8184582877,Deccan Motors Private Limited,Mumbai,2026-08-04,P000172
+C000080,Yash,Mehta,,06492378798,,Pune,2026-03-07,P000010
+C000081,Michael,Sharma,michael.sharma@riverstonecapital.com,8915081135,Riverstone Capital Pvt. Ltd.,Jaipur,2026-03-16,P000064
+C000082,Sara,Das,sara.das@riverstonecapital.in,8352442541,Riverstone Capital Pvt Ltd,Austin,2025-04-06,P000088
+C000083,Ayesha,Menon,ayesha.menon@quartzlabs.com,+91 93872 60471,QUARTZ LABS PVT. LTD.,Noida,2026-06-22,P000106
+C000084,Ayesha,Menon,ayeshamenon+newsletter@gmail.com,9387260471,Quartz Labs Ltd,Noida,2025-09-11,P000106
+C000085,Aarav,Mujherjee,aarav.mukherjee@novabiotech.in,,NOVA BIOTECH LLC,Austin,2025-02-05,P000100
+C000086,James,Müllr,JMULLER@GMAIL.COM,+91 68317 61134,Banyan Learning Inc,Pune,2025-04-24,P000069
+C000087,Isha,Mehta,imehta@gmail.com,+91 90274 04999,Summit Sports Private Limited,Singapore,2026-02-10,P000188
+C000088,Isha,Smith,isha.smith@velvetcosmetics.in,08723344688,Velvet Cosmetics Ltd,Kolkata,2026-07-06,P000141
+C000089,Ananya,Johnson,ananya.johnson@novabiotech.in,841-914-7179,Nova Biotech LLC,Kochi,2025-07-10,P000182
+C000090,Ayesha,Khan,ayesha.khan@quillpublishing.com,6316633484,Quill Publishing,Hyderabad,2025-09-14,P000044
+C000091,James,Iyer,james.iyer@mangopayments.in,06818537671,Mango Payments Limited,Kolkata,2025-09-01,P000065
+C000092,Zoya,Ali,zoya_ali@yahoo.co.in,+91-8471169550,Monsoon Travels Pvt Ltd,Ahmedabad,2026-01-21,P000111
+C000093,Pooja,Fernandes,pooja.fernandes@kestreldrones.in,6778166162,Kestrel Drones,Jaipur,2025-03-21,P000124
+C000094,Sanjay,Müller,sanjay.muller@peacockmedia.com,+91-9157543430,Peacock Media,Delhi,2026-06-20,P000192
+C000095,Sneha,Das,sneha_das@gmail.com,06896410907,Falcon Security Pvt. Ltd.,Pune,2026-04-12,P000166
+C000096,David,Bose,david.bose@induscloudsystems.com,+91 77748 07184,Indus Cloud Systems Inc.,Jaipur,2026-05-28,P000041
+C000097,Ishha,Brown,isha.brown@quillpublishing.com,09587832502,Quill Publishing Ltd,Chennai,2025-04-13,P000190
+C000098,Poja,Das,,670-186-9261,Evergreen Agro LLC,Chennai,2024-12-31,P000079
+C000099,Manish,Joshi,manish.joshi@saffronhotels.com,+91-7613933967,Saffron Hotels Inc.,Noida,2026-01-28,P000156
+C000100,Anjali,Müller,ANJALI.MULLER@RIVERSTONECAPITAL.COM,+91-9575637148,,Noida,2026-02-07,P000197
+C000101,Laura,Smith,laura.smith@jadejewellers.in,+91 64960 17341,Jade Jewellers LLC,Gurugram,2025-06-08,P000015
+C000102,Laura,Fernandes,laura.fernandes95@gmail.com,09760702793,Monsoon Travels LLC,Hyderabad,2026-08-13,P000007
+C000103,Deepak,Nair,deepak.nair@garudaaviation.com,676-956-1910,Garuda Aviation Inc,Kochi,2026-01-14,P000158
+C000104,Aarav,Fernandes,aarav.fernandes@evergreenagro.com,06410827676,Evergreen Agro Inc.,Pune,2026-05-06,P000078
+C000105,Sneha,Agarwal,sneha.agarwal@mangopayments.com,+91 96758 02402,Mango Payments,Hyderabad,2026-02-02,P000109
+C000106,Laura,Gupta,lauragupta@rediffmail.com,7279821073,Bluepeak Software Inc.,Gurugram,2024-12-18,P000032
+C000107,Aditi,Garcia,aditi.garcia@quartzlabs.in,07699703960,Quartz Labs Inc.,Austin,2025-01-20,P000113
+C000108,James,Müller,JMULLER@GMAIL.COM,,banyan learning inc.,,2025-09-11,P000069
+C000109,Michael,Gupta,michael_gupta@gmail.com,+91-9769620527,Granite Builders Pvt Ltd,Singapore,2025-05-23,P000177
+C000110,Anjali,Brown,anjali.brown@saffronhotels.in,09429412443,Saffron Hotels LLC,Kochi,2025-05-27,P000117
+C000111,Manish,Fernandes,manish.fernandes@teallogistics.com,06338881811,Teal Logistics Inc,Delhi,2025-04-27,P000135
+C000112,Divya,Chen,divya.chen@summitsports.in,09252058844,Summit Sports Pvt. Ltd.,London,2025-02-10,P000013
+C000113,Karan,Joshi,karan.joshi@mapleconsulting.in,9103916711,Maple Consulting Inc,Kochi,2025-02-04,P000095
+C000114,Akash,Agarwal,akash.agarwal@banyanlearning.com,859-116-7241,Banyan Learning Limited,Austin,2026-03-23,P000108
+C000115,Vivek,Kumar,,07378983879,Ganga Pharma Pvt Ltd,Jaipur,2026-06-14,P000136
+C000116,Ankit,Chatterjee,ankit_chatterjee2@yahoo.co.in,08109462243,Jade Jewellers LLC,Austin,2025-11-11,P000196
+C000117,Laura,Smith,laura.smith@riverstonecapital.in,09295559054,Riverstone Capital Inc,Delhi,2026-11-12,P000119
+C000118,Neha,Singh,nehasingh+newsletter@gmail.com,+91 76360 99045,Sahyadri Foods,Noida,2025-01-31,P000063
+C000119,Pooaj,Fernandes,pooja.fernandes@kestreldrones.in,6778166162,Kestrel Drones Pvt Ltd,Jaipur,2025-01-02,P000124
+C000120,Rajesh,Tanaka,rajesh.tanaka@himalayawater.com,09535561386,Himalaya Water Pvt. Ltd.,Kochi,2026-08-28,P000162
+C000121,Priya,Rao,prao@gmail.com,07247127106,Jade Jewellers Ltd,Pune,2026-03-11,P000199
+C000122,Rahul,Menon,rahul.menon@gangapharma.com,+91-7945706820,Ganga Pharma Inc.,Pune,2024-12-12,P000047
+C000123,Michael,Sharma,michaelsharma@gmail.com,849-996-5153,Quartz Labs Pvt Ltd,Pune,2026-11-13,P000122
+C000124,Aditi,Ali,aditiali@rediffmail.com,+91-7083729848,Teal Logistics,Kochi,2025-01-25,P000053
+C000125,Akash,Chen,akashchen@rediffmail.com,772-824-2825,Harbor Shipping,London,2026-04-17,P000131
+C000126,Yash,Kulkarni,yash.kulkarni@opalfashion.com,+91 95386 30196,Opal Fashion Inc.,Kochi,2026-10-24,P000017
+C000127,Arjun,Kulkarni,arjun.kulkarni@vertexrobotics.com,+91 84150 32276,Vertex Robotics Ltd,Bengaluru,2026-10-17,P000068
+C000128,Shreyya,Banerjee,SHREYA.BANERJEE@SUMMITSPORTS.COM,,Summit Sports Inc,Singapore,2025-11-05,P000060
+C000129,Neha,Rao,neha.rao@aravallimining.in,08220836896,Aravalli Mining LLC,Austin,2026-07-03,P000005
+C000130,Meera,Tanaka,meera.tanaka@granitebuilders.in,09708451178,Granite Builders Pvt. Ltd.,Hyderabad,2025-04-22,P000049
+C000131,Akash,Nair,akash.nair@opalfashion.com,+91 86171 99960,Opal Fashion Pvt. Ltd.,Ahmedabad,2025-04-07,P000174
+C000132,Kavya,Johnson,kavya_johnson@yahoo.co.in,07911037478,Granite Builders Pvt Ltd,Pune,2026-05-18,P000006
+C000133,Aditi,Chen,aditi.chen@lumendiagnostics.com,07264331265,Lumen Diagnostics Inc.,Delhi,2025-04-03,P000110
+C000134,ANANYA,REDDDY,ananya.reddy@monsoontravels.in,,Monsoon Travels,Noida,2026-09-09,P000102
+C000135,Daniel,Mukherjee,daniel.mukherjee@velvetcosmetics.com,+91-9453881349,Velvet Cosmetics Pvt Ltd,Mumbai,2026-08-02,P000194
+C000136,Karan,Patel,karan.patel@willowhealthcare.in,7495208766,Willow Healthcare Pvt Ltd,Ahmedabad,2025-04-04,P000145
+C000137,Laura,Fernandes,,9760702793,Monsoon Travels Pvt Ltd,Hyderabad,2026-02-16,P000007
+C000138,Gaurav,Kumar,gaurav.kumar46@outlook.com,07003639183,Evergreen Agro Inc.,Gurugram,2026-08-15,P000037
+C000139,Isha,Ali,isha.ali@teallogistics.com,+91 72508 94028,Teal Logistics Ltd,Kolkata,2026-01-02,P000129
+C000140,Yash,Mehta,yash.mehta@novabiotech.com,06492378798,Nova Biotech Inc,Pune,2025-05-24,P000010
+C000141,Rahul,Sharma,rahul.sharma@saffronhotels.in,7250754363,Saffron Hotels,Kolkata,2024-12-07,P000171
+C000142,Zoya,Lee,zoya.lee@falconsecurity.in,789-332-1322,Falcon Security Inc,Bengaluru,2026-05-08,P000200
+C000143,Wei,Pillai,wei.pillai@brightpatheducation.in,877-036-2174,Brightpath Education Pvt. Ltd.,Bengaluru,2025-08-27,P000161
+C000144,Ananya,Kumar,ananya.kumar@induscloudsystems.com,07856724930,Indus Cloud Systems Pvt Ltd,Noida,2024-11-17,P000160
+C000145,Micharl,Sharma,,8915081135,Riverstone Capital Inc.,Jaipur,2025-03-15,P000064
+C000146,Tanvi,Verma,tverma@gmail.com,792-106-0155,Lotus Fintech LLC,Kolkata,2025-09-02,P000012
+C000147,Isha,Gupta,isha.gupta@harborshipping.in,07065031622,Harbor Shipping Private Limited,Ahmedabad,2025-04-03,P000082
+C000148,Isha,Brown,isha.brown@quillpublishing.com,9587832502,Quill Publishing Ltd,Chennai,2026-05-14,P000190
+C000149,James,Nair,jamesnair@outlook.com,+91-6632680262,Velvet Cosmetics Private Limited,Ahmedabad,2025-05-03,P000146
+C000150,ADITI,NAIR,aditinair@gmail.com,8742975638,Kaveri Textiles LLC,,2026-01-12,P000073
+C000151,Maria,Johnson,maria.johnson@summitsports.com,894-364-4205,Summit Sports Pvt Ltd,Chennai,2025-09-25,P000052
+C000152,Ritu,Kulkarni,ritu.kulkarni@harborshipping.com,+91 74157 62698,Harbor Shipping Ltd,Ahmedabad,2024-11-20,P000090
+C000153,Maria,Kulkarni,maria.kulkarni@kaveritextiles.com,06672382094,Kaveri Textiles Private Limited,Hyderabad,2025-08-17,P000089
+C000154,Anjali,Khan,anjali.khan@granitebuilders.in,+91-8093320906,Granite Builders Pvt Ltd,Noida,2026-05-22,P000045
+C000155,Nikhil,Garcia,nikhil_garcia@gmail.com,7024027565,Sahyadri Foods,Noida,2025-08-31,P000155
+C000156,Yash,Kuljarni,YASH.KULKARNI@OPALFASHION.COM,+91-9538630196,Opal Fashion Pvt. Ltd.,Kochi,2025-09-24,P000017
+C000157,John,Müller,john.muller@garudaaviation.com,+91-8467316032,Garuda Aviation Private Limited,Mumbai,2025-08-20,P000154
+C000158,James,Müller,james.muller@banyanlearning.in,06831761134,Banyan Learning Ltd,Ahmedabad,2026-04-25,P000069
+C000159,Imran,Bose,imran_bose@yahoo.co.in,7616398287,Jade Jewellers,Austin,2025-12-12,P000149
+C000160,Vivek,Iyer,vivek.iyer43@gmail.com,6351986633,Kestrel Drones Inc.,London,2026-09-09,P000165
+C000161,Vikrm,Mehta,vikrammehta@rediffmail.com,,CORAL INSURANCE INC.,London,2025-09-29,P000001
+C000162,Nikhil,Chatterjee,NCHATTERJEE@GMAIL.COM,605-900-1035,,Pune,2026-05-20,P000014
+C000163,James,Gupta,jamesgupta@gmail.com,+91-6824705684,Harbor Shipping Pvt Ltd,Bengaluru,2025-10-27,P000130
+C000164,Akash,Menon,akash.menon@lumendiagnostics.in,+91 77972 58348,Lumen Diagnostics Pvt Ltd,London,2026-04-12,P000195
+C000165,Laura,Mehta,laura.mehta@falconsecurity.com,08033154339,Falcon Security Ltd,Ahmedabad,2024-12-02,P000036
+C000166,Vivek,Singh,vivek.singh@teallogistics.in,+91 91189 63061,Teal Logistics Inc.,Singapore,2025-01-04,P000019
+C000167,Karan,Kulkarni,karan.kulkarni@velvetcosmetics.com,+91-6297925238,Velvet Cosmetics,London,2025-06-26,P000137
+C000168,Nikhil,Menon,nikhil.menon@mapleconsulting.in,06317649216,Maple Consulting Pvt Ltd,Gurugram,2024-12-27,P000098
+C000169,Meera,Nair,mnair@gmail.com,09197879020,Nova Biotech,Bengaluru,2026-01-20,P000103
+C000170,Yash,Garcia,yashgarcia@gmail.com,07446697800,Cobalt Energy,Ahmedabad,2025-04-23,P000061
+C000171,Anjali,Müller,anjali.muller@riverstonecapital.com,+91-9575637148,Riverstone Capital Inc,Noida,2026-06-17,P000197
+C000172,Nikhil,Smith,nikhil.smith@gangapharma.in,08189157376,Ganga Pharma Private Limited,Pune,2025-11-25,P000086
+C000173,Rahul,Pillai,rahul.pillai@monsoontravels.com,8243662069,Monsoon Travels Pvt. Ltd.,Delhi,2026-06-09,P000186
+C000174,Adiit,Nair,aditinair@gmail.com,,Kaveri Textiles Private Limited,Delhi,2026-06-19,P000073
+C000175,Aarav,Mukherjee,aarav.mukherjee@novabiotech.in,829-437-3059,Nova Biotech Inc,Hyderabad,2025-03-07,P000100
+C000176,Anjali,Sharma,anjali.sharma@lumendiagnostics.in,7726421518,Lumen Diagnostics Ltd,Pune,2026-10-24,P000099
+C000177,Yash,Gupta,yash.gupta@harborshipping.com,09791241814,Harbor Shipping Pvt. Ltd.,Bengaluru,2025-06-04,P000057
+C000178,Ankit,Bose,ankit_bose@yahoo.co.in,6016691015,Garuda Aviation LLC,Mumbai,2026-10-28,P000163
+C000179,ivek,Kumar,vivek_kumar@gmail.com,737-898-3879,ganga pharma pvt. ltd.,,2025-02-28,P000136
+C000180,Isha,Mehta,imehta+crm@gmail.com,902-740-4999,Summit Sports Inc,Singapore,2024-11-18,P000188
+C000181,Anit,Desai,,+91 76299 91747,,Bengaluru,2025-12-15,P000138
+C000182,James,Iyer,james.iyer@mangopayments.in,06818537671,Mango Payments LLC,Kolkata,2024-11-20,P000065
+C000183,David,Smith,david.smith@opalfashion.com,+91-8565700893,Opal Fashion Ltd,Kolkata,2025-09-26,P000094
+C000184,Priya,Rao,priya.rao@jadejewellers.in,+91-7247127106,JADE JEWELLERS PVT LTD,Pune,2025-09-03,P000199
+C000185,Maira,Johnson,mariajohnson@gmail.com,894-364-4205,Summit Sports Inc,Chennai,2025-07-29,P000052
+C000186,Yash,Iyer,yash.iyer@banyanlearning.com,+91 84170 14788,Banyan Learning Inc,Mumbai,2026-04-02,P000046
+C000187,David,Reddy,david.reddy@novabiotech.com,08807801589,Nova Biotech Inc.,Gurugram,2026-05-27,P000002
+C000188,Manish,Joshi,manish_joshi@gmail.com,+91-7613933967,Saffron Hotels Pvt Ltd,Noida,2026-10-18,P000156
+C000189,Daniel,Mukherjee,DANIEL.MUKHERJEE@VELVETCOSMETICS.COM,09453881349,,Mumbai,2026-01-23,P000194
+C000190,Divta,Garcia,,838-005-2273,Banyan Learning LLC,Singapore,2025-01-27,P000183
+C000191,Aarav,Mukherjee,aaravmukherjee@gmail.com,8294373059,Nova Biotech Ltd,Hyderabad,2025-01-13,P000100
+C000192,Divya,Garcia,divya.garcia@banyanlearning.com,8380052273,Banyan Learning Inc,Singapore,2025-01-10,P000183
+C000193,Emily,Desai,emily.desai@himalayawater.com,888-555-1552,Himalaya Water Inc,Hyderabad,2026-05-20,P000080
+C000194,Divya,Kulkarni,divya.kulkarni@aravallimining.com,+91 65063 43015,Aravalli Mining Pvt Ltd,Austin,2025-03-05,P000043
+C000195,Maria,Gupta,maria.gupta@vertexrobotics.in,8460278542,Vertex Robotics Pvt Ltd,Mumbai,2024-12-18,P000107
+C000196,Pooja,Das,pdas@gmail.com,6701869261,Evergreen Agro Limited,Chennai,2026-04-12,P000079
+C000197,Aditi,Nair,aditi.nair@kaveritextiles.com,+91 87429 75638,Kaveri Textiles,Delhi,2026-06-11,P000073
+C000198,Suresh,Banerjee,suresh.banerjee@zenithlogistics.com,08837393532,Zenith Logistics Pvt. Ltd.,Chennai,2024-12-03,P000021
+C000199,Meera,Tanaka,meera.tanaka@nimbusanalytics.in,08138080646,Nimbus Analytics Pvt. Ltd.,Ahmedabad,2025-11-29,P000128
+C000200,Rahul,Chatterjee,rahul.chatterjee@riverstonecapital.in,8369457946,Riverstone Capital Pvt Ltd,Ahmedabad,2025-02-08,P000193
+C000201,Suresh,Rao,suresh_rao@outlook.com,+91 61299 94117,Saffron Hotels,Singapore,2026-03-02,P000011
+C000202,Neha,Shah,neha_.shah@gmail.com,+91-9892615420,Lumen Diagnostics Inc,,2025-05-18,P000056
+C000203,Karan,Verma,karan.verma@riverstonecapital.com,7674509952,Riverstone Capital Inc,Hyderabad,2026-01-15,P000022
+C000204,Kavya,Rao,kavya.rao@silverlinetelecom.in,914-384-8011,Silverline Telecom,Pune,2026-05-26,P000105
+C000205,Meera,Verma,meeraverma@gmail.com,07433092222,Quartz Labs Limited,Mumbai,2025-10-07,P000054
+C000206,Neha,Shah,neha.shah@lumendiagnostics.in,+91 98926 15420,Lumen Diagnostics Limited,Jaipur,2026-05-08,P000056
+C000207,Farhan,Bose,fbose@gmail.com,+91 79762 28841,Kestrel Drones,Kolkata,2025-07-26,P000151
+C000208,Nikhil,Nair,nikhilnair@rediffmail.com,08111110773,Kaveri Textiles Pvt. Ltd.,Delhi,2025-09-11,P000126
+C000209,David,Kulkarni,david.kulkarni@orbitretail.in,06963398272,Orbit Retail Ltd,Kochi,2026-06-27,P000157
+C000210,Isha,Mehta,IMEHTA@GMAIL.COM,+91-9027404999,,,2025-12-09,P000188
+C000211,Yash,Shah,yash.shah@novabiotech.com,820-708-4967,Nova Biotech Private Limited,Austin,2025-08-24,P000112
+C000212,Yuki,Chatterjee,yukichatterjee@gmail.com,+91-9888560692,Kestrel Drones Private Limited,Noida,2025-02-27,P000062
+C000213,Maria,Singh,maria.singh@kaveritextiles.com,615-465-6611,Kaveri Textiles Limited,London,2026-11-11,P000059
+C000214,Emily,Verma,emily.verma@granitebuilders.in,+91 78787 02445,Granite Builders Inc.,London,2026-08-28,P000173
+C000215,Shreya,Bose,shreya.bose84+newsletter@gmail.com,+91-7516272951,Riverstone Capital Limited,Pune,2025-12-05,P000040
+C000216,Ankit,Smith,ankit.smith@nimbusanalytics.com,6196085736,Nimbus Analytics LLC,Bengaluru,2024-12-11,P000189
+C000217,Neha,Pillai,neha.pillai@nimbusanalytics.in,706-625-7049,Nimbus Analytics Pvt Ltd,Noida,2025-01-26,P000070
+C000218,Aarav,Mehta,aarav.mehta@kaveritextiles.com,08924261497,,Gurugram,2025-05-11,P000143
+C000219,Maria,Sharma,maria_sharma@gmail.com,08784099860,Neem Organics Inc,Pune,2025-01-12,P000071
+C000220,Deepak,Ali,deepak.ali@garudaaviation.in,+91 86289 12686,Garuda Aviation Limited,Jaipur,2025-09-20,P000027
+C000221,Neha,Patel,nehapatel@outlook.com,+91 92471 36122,Quill Publishing Private Limited,Noida,2025-07-28,P000042
+C000222,James,Sharma,james.sharma@lotusfintech.in,08553742423,Lotus Fintech,Mumbai,2025-10-02,P000168
+C000223,Vivek,Kumar,vivek.kumar@gangapharma.in,+91 73789 83879,Ganga Pharma Pvt. Ltd.,Jaipur,2025-02-17,P000136
+C000224,Vikram,Mehta,vikrammehta@rediffmail.com,+91-9235116564,Coral Insurance Inc,London,2025-06-27,P000001
+C000225,Yuki,Iyer,yuki.iyer@ivoryinteriors.com,07246869917,Ivory Interiors Inc.,Ahmedabad,2026-05-05,P000152
+C000226,Amit,Müller,amit_muller@gmail.com,+91-8551795862,Zenith Logistics Inc.,Jaipur,2026-11-11,P000028
+C000227,Rahul,Mehta,rahul.mehta@willowhealthcare.in,9760097351,Willow Healthcare Private Limited,Ahmedabad,2025-08-24,P000085
+C000228,Aditi,Reddy,aditi.reddy@garudaaviation.in,+91 68877 27063,Garuda Aviation Pvt Ltd,Delhi,2026-06-13,P000121
+C000229,Carlos,Iyer,carlos_iyer@outlook.com,08090832892,Monsoon Travels Limited,Singapore,2026-07-10,P000176
+C000230,Daniel,Rao,daniel_rao@rediffmail.com,06807203026,Brightpath Education Limited,Ahmedabad,2026-08-21,P000132
+C000231,Gaurav,Chatterjee,gaurav.chatterjee@himalayawater.com,7498911291,Himalaya Water Ltd,Kochi,2025-03-25,P000115
+C000232,Karan,Khan,karan.khan@pinnaclerealty.in,798-550-8184,Pinnacle Realty Inc.,Singapore,2025-06-10,P000148
+C000233,Maria,Chen,maria.chen@cobaltenergy.in,09928231332,Cobalt Energy LLC,Pune,2026-07-17,P000116
+C000234,Sneha,Agarwal,,+91 96758 02402,Mango Payments Pvt Ltd,Austin,2026-06-23,P000109
+C000235,Rajesh,Kulkarni,rajesh_kulkarni@gmail.com,894-282-3256,Deccan Motors Limited,Pune,2025-03-28,P000083
+C000236,Nikhil,Fernandes,nikhil.fernandes61@gmail.com,+91 86864 41198,Himalaya Water Pvt. Ltd.,Mumbai,2026-09-15,P000004
+C000237,Aarav,Mehta,aarav.mehta@kaveritextiles.com,892-426-1497,Kaveri Textiles,Gurugram,2025-03-31,P000143
+C000238,Aarav,Mukheerjee,aaravmukherjee@gmail.com,+91-8294373059,Nova Biotech LLC,Hyderabad,2024-12-05,P000100
+C000239,Meera,Fernandes,meerafernandes@outlook.com,+91 78878 14494,Mango Payments LLC,Hyderabad,2025-01-20,P000142
+C000240,Vivek,Kumar,vivek.kumar@gangapharma.in,7378983879,Ganga Pharma,Jaipur,2026-06-04,P000136
+C000241,Maria,Chen,,,cobalt energy inc.,Pune,2025-03-19,P000116
+C000242,Deepak,Chen,deepak.chen@teallogistics.in,+91 87533 60582,Teal Logistics,Gurugram,2025-11-25,P000050
+C000243,Isha,Brown,isha.brown@quillpublishing.com,+91-9587832502,Quill Publishing Pvt Ltd,Chennai,2026-03-05,P000190
+C000244,Ritu,Mukherjee,ritu.mukherjee@banyanlearning.in,+91 81309 51709,Banyan Learning LLC,London,2026-07-10,P000003
+C000245,Aarav,Verma,aarav.verma@deccanmotors.com,6165580075,Deccan Motors Ltd,Austin,2026-07-30,P000029
+C000246,Daniel,Garcia,daniel.garcia@gangapharma.in,635-277-5111,Ganga Pharma Inc.,London,2026-03-21,P000164
+C000247,Mria,Chen,,992-823-1332,COBALT ENERGY PRIVATE LIMITED,Pune,2026-02-28,P000116
+C000248,Priya,Desai,priya.desai@granitebuilders.com,07452571360,Granite Builders Private Limited,Chennai,2026-02-25,P000038
+C000249,Ritu,Kulkarni,ritu.kulkarni@harborshipping.com,+91 74157 62698,HARBOR SHIPPING PVT LTD,Ahmedabad,2026-07-28,P000090
+C000250,Neha,Das,neha.das@quartzlabs.com,08843960378,Quartz Labs Pvt. Ltd.,Mumbai,2026-10-31,P000096
+C000251,James,Pillai,james_pillai@rediffmail.com,,Nova Biotech LLC,,2025-03-19,P000133
+C000252,Emily,Fernandes,emily.fernandes@aravallimining.in,641-512-0904,,,2025-07-29,P000097
+C000253,Rajesh,Kulkarni,,+91-8942823256,DECCAN MOTORS LLC,Pune,2025-03-07,P000083
+C000254,Adiri,Reddy,ADITI.REDDY@GARUDAAVIATION.IN,06887727063,garuda aviation,Delhi,2025-04-06,P000121
+C000255,Emily,Mehta,emily.mehta@evergreenagro.in,+91 81762 32953,Evergreen Agro Private Limited,Mumbai,2025-06-01,P000144
+C000256,Ayesha,Gupta,ayesha.gupta88@outlook.com,06648393734,Lotus Fintech Ltd,Bengaluru,2026-02-17,P000175
+C000257,Deepak,Das,deepak_das@outlook.com,06683735236,Teal Logistics LLC,Jaipur,2026-04-05,P000076
+C000258,Suresh,Das,suresh.das@bluepeaksoftware.com,8640158125,Bluepeak Software Inc.,Gurugram,2025-12-22,P000034
+C000259,Neha,Joshi,neha.joshi@ivoryinteriors.com,780-944-8520,Ivory Interiors,Kochi,2025-02-03,P000120
+C000260,KARAN,JOSHI,karan.joshi@mapleconsulting.in,,Maple Consulting Inc.,Kochi,2026-07-02,P000095
+C000261,Sarah,Mukherjee,sarah.mukherjee@orbitretail.com,+91 89107 30023,Orbit Retail,London,2026-03-09,P000024
+C000262,Pooja,Fernandes,pooja.fernandes@kestreldrones.in,,kestrel drones,Jaipur,2025-11-15,P000124
+C000263,Neha,Rao,neharao@rediffmail.com,,Aravalli Mining Private Limited,Austin,2024-11-25,P000005
+C000264,Neha,Singh,nehasingh@gmail.com,763-609-9045,Sahyadri Foods,Noida,2025-07-17,P000063
+C000265,Ankit,Fernandes,ankit.fernandes@summitsports.com,+91 70036 26058,Summit Sports LLC,Mumbai,2026-09-19,P000016
+C000266,Laura,Sharma,laurasharma@gmail.com,+91-6605947087,Bluepeak Software Inc.,Chennai,2025-02-02,P000067
+C000267,Vivek,Gupta,vivek.gupta@lumendiagnostics.in,6183703825,Lumen Diagnostics,Noida,2025-06-30,P000025
+C000268,Emily,Fernandes,emily.fernandes@aravallimining.in,6415120904,Aravalli Mining Private Limited,Delhi,2025-02-25,P000097
+C000269,Ankit,Fernandes,,7003626058,Summit Sports,Mumbai,2026-06-16,P000016
+C000270,Neha,Pillai,,+91-7066257049,nimbus analytics ltd,Noida,2026-08-28,P000070
+C000271,Michael,Desai,michael.desai@silverlinetelecom.com,6173172211,Silverline Telecom Pvt. Ltd.,Pune,2026-06-28,P000093
+C000272,Aarav,Ali,aarav.ali@banyanlearning.in,+91-7590759662,Banyan Learning Inc,Mumbai,2025-06-13,P000058
+C000273,Sneha,Lee,sneha.lee@summitsports.com,08960201184,Summit Sports Pvt Ltd,Pune,2025-08-02,P000008
+C000274,Sneha,Johnson,sneha.johnson@mapleconsulting.com,+91 79219 77875,Maple Consulting Pvt Ltd,Hyderabad,2025-07-26,P000101
+C000275,Ayesha,Menon,ayesha.menon@quartzlabs.com,9387260471,Quartz Labs Private Limited,Noida,2025-08-22,P000106
+C000276,Michael,Tanaka,michael.tanaka@teallogistics.com,09847779553,Teal Logistics Limited,Jaipur,2025-01-19,P000191
+C000277,Isah,Gupta,ISHA.GUPTA@HARBORSHIPPING.IN,07065031622,,,2026-01-23,P000082
